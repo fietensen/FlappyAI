@@ -9,7 +9,7 @@ import numpy as np
 
 mutationrate = 0.2
 n_agents = 50
-resolution = (1920,1080)
+resolution = (600,480)
 game = Game(resolution)
 
 
