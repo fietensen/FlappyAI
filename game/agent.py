@@ -12,7 +12,7 @@ class Agent:
         self.screen = surface_array
 
     def jump(self):
-        self.vvelocity = 3.6
+        self.vvelocity = 3.0
 
     def move(self):
 
